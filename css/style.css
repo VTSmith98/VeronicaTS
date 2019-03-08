@@ -1,10 +1,13 @@
-
-.background {
-  background-color: lavendar
+body {
+  background-color: lightblue;
 }
 
-.title {
-  background-color: #F1F1F1;
+h1 {
+  color: white;
   text-align: center;
-  padding: 20px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
 }
