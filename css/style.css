@@ -1,18 +1,19 @@
-body {
+.body {
   background-color: SlateBlue;
 }
 
-h1 {
-  color: black;
+.header1 {
+  color: white;
   text-align: center;
 }
 
-p {
+.paragraph {
+  color: white;
   font-family: verdana;
   font-size: 20px;
 }
 
-h2 {
+.header2 {
   
 }
 
