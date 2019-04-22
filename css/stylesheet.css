@@ -13,6 +13,10 @@
   color: white;
   font-family: Serif;
   font-size: 15px;
+  width: 300px;
+  border: 15px solid purple;
+  padding: 50px;
+  margin: 20px;
 }
 
 .header2 {
