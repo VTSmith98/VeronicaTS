@@ -5,6 +5,8 @@
 .body {
   background-color: rgb(226, 168, 204);
   margin: 5px;
+  padding: 10px;
+  font-family: Serif;
 }
 
 .header {
