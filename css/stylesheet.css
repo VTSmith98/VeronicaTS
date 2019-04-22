@@ -11,6 +11,9 @@
   background-color: #FFB6C1;
   padding: 20px;
   text-align: center;
+  font-family: Serif;
+  font-size: 100px;
+  color: white;
 }
 
 .topnav {
@@ -21,7 +24,7 @@
 .topnav a {
   float: left;
   display: block;
-  color: black;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -55,6 +58,7 @@
   display: table;
   clear: both;
 }
+  
 
 .header1 {
   color: white;
