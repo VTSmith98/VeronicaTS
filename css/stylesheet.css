@@ -1,5 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
 .body {
   background-color: rgb(226, 168, 204);
+  margin: 5px;
 }
 
 .header {
@@ -16,7 +21,7 @@
 .topnav a {
   float: left;
   display: block;
-  color: #BC8F8F;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -38,7 +43,13 @@
 .column.middle {
   width: 50%;
 }
-
+  
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
+  
 .row:after {
   content: "";
   display: table;
