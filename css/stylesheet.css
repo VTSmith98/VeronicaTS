@@ -41,3 +41,9 @@
   color: white;
   list-style-type: square;
 }
+
+.footer {
+  background-color: #FFB6C1;
+  text-align: center;
+  padding: 10px;
+}
