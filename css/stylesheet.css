@@ -10,7 +10,7 @@
   padding: 20px;
   text-align: center;
   font-family: Serif;
-  font-size: 75px;
+  font-size: 50px;
   color: white;
 }
 
@@ -69,7 +69,7 @@
     width: 100%;  
   
 
-h1 {
+h2 {
   color: white;
   text-align: center;
   font-family: Serif;
@@ -82,7 +82,7 @@ p {
   font-size: 15px;
 }
 
-h2 {
+h3 {
   font-family: Serif;
   text-align: center;
   font-size: 30px
@@ -90,7 +90,7 @@ h2 {
   
 }
 
-h3 {
+h5 {
   font-family: Serif;
   text-align: right;
   font-size: 20px;
