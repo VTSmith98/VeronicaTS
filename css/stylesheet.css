@@ -19,12 +19,20 @@
   font-family: Serif;
   text-align: center;
   font-size: 30px
+  color: white;
   
 }
 
-h3 {
+.header2 {
   font-family: Serif;
-   text-align: center;
-  font-size: 20px
+  text-align: center;
+  font-size: 20px;
+  color: white;
   
+}
+
+.list {
+  font-family: Serif;
+  font-size: 15px;
+  color: white;
 }
