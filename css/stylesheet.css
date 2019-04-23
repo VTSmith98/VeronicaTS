@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: rgb(226, 168, 204);
   margin: 5px;
@@ -66,7 +70,7 @@ h4 {
   
 }
 
-.list {
+ul.a {
   font-family: Serif;
   font-size: 15px;
   color: rgb(255, 255, 255);
