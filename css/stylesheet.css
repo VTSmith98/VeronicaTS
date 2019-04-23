@@ -33,14 +33,14 @@ body {
 }
 
 h2 {
-  color: white;
+  color: rgb(255, 255, 255);
   text-align: center;
   font-family: Serif;
   font-size: 40px;
 }
 
 p {
-  color: white;
+  color: rgb(255, 255, 255);
   font-family: Serif;
   font-size: 15px;
 }
@@ -49,7 +49,7 @@ h3 {
   font-family: Serif;
   text-align: center;
   font-size: 30px
-  color: white;
+  color: rgb(255, 255, 255);
   
 }
 
@@ -57,14 +57,14 @@ h4 {
   font-family: Serif;
   text-align: right;
   font-size: 20px;
-  color: white;
+  color: rgb(255, 255, 255);
   
 }
 
 .list {
   font-family: Serif;
   font-size: 15px;
-  color: white;
+  color: rgb(255, 255, 255);
   list-style-type: square;
 }
 
