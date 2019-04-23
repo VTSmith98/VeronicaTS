@@ -1,4 +1,4 @@
-.body {
+body {
   background-color: rgb(226, 168, 204);
   margin: 5px;
   padding: 10px;
@@ -55,18 +55,6 @@
   content: "";
   display: table;
   clear: both;
-  
-@media screen and (max-width: 800px) {
-  .leftcolumn, .rightcolumn {   
-    width: 100%;
-    padding: 0;
-  }
-}
-
-@media screen and (max-width: 400px) {
-  .topnav a {
-    float: none;
-    width: 100%;  
   
 
 h2 {
