@@ -3,19 +3,19 @@
 }
 
 body {
-  background-color: rgb(226, 168, 204);
+  background-color: #FFE4C4;
   margin: 5px;
   padding: 10px;
   font-family: Serif;
 }
 
 .header {
-  background-color: #FFB6C1;
+  background-color: #DEB887;
   padding: 20px;
   text-align: center;
   font-family: Serif;
   font-size: 50px;
-  color: white;
+  color: black;
 }
 
 .leftcolumn {   
@@ -31,7 +31,7 @@ body {
 }
 
 .card {
-  background-color: rgb(255, 255, 211);
+  background-color: #CD5C5C;
   padding: 20px;
   margin-top: 20px;
 }
@@ -74,7 +74,7 @@ ul.a {
 }
 
 .footer {
-  background-color: #FFB6C1;
+  background-color: #DEB887;
   text-align: center;
   padding: 10px;
 }
