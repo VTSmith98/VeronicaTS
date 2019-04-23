@@ -32,13 +32,6 @@ body {
   margin-top: 20px;
 }
 
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-  
-
 h2 {
   color: white;
   text-align: center;
