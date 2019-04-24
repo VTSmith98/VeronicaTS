@@ -3,10 +3,7 @@
 }
 
 body {
-  background-color: #FFE4C4;
-  margin: 5px;
-  padding: 10px;
-  font-family: Serif;
+  background-color: #FFE4C4
 }
 
 .header {
@@ -15,7 +12,7 @@ body {
   text-align: center;
   font-family: Serif;
   font-size: 50px;
-  color: black;
+  color: white;
 }
 
 .leftcolumn {   
@@ -24,7 +21,7 @@ body {
 }
 
 .rightcolumn {
-  float: left;
+  float: right;
   width: 25%;
   background-color: #BC8F8F;
   padding-left: 20px;
@@ -34,27 +31,27 @@ body {
   background-color: #CD5C5C;
   padding: 20px;
   margin-top: 20px;
+  border: 15 solid white;
 }
 
 h2 {
-  color: rgb(255, 255, 255);
+  color: white;
   text-align: center;
   font-family: Serif;
   font-size: 40px;
 }
 
 p {
-  color: rgb(255, 255, 255);
+  color: white;
   font-family: Serif;
   font-size: 15px;
-  border: 15px solid white;
 }
 
 h3 {
   font-family: Serif;
   text-align: center;
   font-size: 30px
-  color: rgb(255, 255, 255);
+  color: white;
   
 }
 
@@ -62,14 +59,14 @@ h4 {
   font-family: Serif;
   text-align: left;
   font-size: 20px;
-  color: rgb(255, 255, 255);
+  color: white;
   
 }
 
 ul.a {
   font-family: Serif;
   font-size: 15px;
-  color: rgb(255, 255, 255);
+  color: white;
   list-style-type: square;
 }
 
@@ -77,4 +74,6 @@ ul.a {
   background-color: #DEB887;
   text-align: center;
   padding: 10px;
+  margin: 10px;
+  border: 20px solid white;
 }
