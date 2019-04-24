@@ -63,7 +63,7 @@ h4 {
   
 }
 
-ul.li {
+ul li {
   font-family: Serif;
   font-size: 15px;
   color: white;
@@ -71,6 +71,7 @@ ul.li {
 }
 
 .footer {
+  color: white;
   background-color: #DEB887;
   text-align: center;
   margin: 10px 10px 10px 10px;
