@@ -41,6 +41,10 @@ h2 {
   font-size: 40px;
 }
 
+.tab {
+  margin-left: 40px;
+}
+
 p {
   color: white;
   font-family: Serif;
