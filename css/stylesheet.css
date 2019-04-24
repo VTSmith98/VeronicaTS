@@ -50,7 +50,7 @@ p {
 h3 {
   font-family: Serif;
   text-align: center;
-  font-size: 30px
+  font-size: 30px;
   color: white;
   
 }
@@ -63,7 +63,7 @@ h4 {
   
 }
 
-ul.a {
+ul.li {
   font-family: Serif;
   font-size: 15px;
   color: white;
