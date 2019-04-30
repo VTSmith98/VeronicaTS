@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #FFE4C4;
+  background-color: #F0E68C;
 }
 
 .header {
@@ -12,7 +12,7 @@ body {
   text-align: center;
   font-family: Serif;
   font-size: 50px;
-  color: #FFF8DC;
+  color: #F0E68C;
 }
 
 
@@ -24,7 +24,7 @@ body {
 .nav a {
   float: left;
   display: block;
-  color: 	#FFF8DC;
+  color: #F0E68C;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -55,7 +55,7 @@ body {
 }
 
 h2 {
-  color: 	#FFF8DC;
+  color: #F0E68C;
   text-align: center;
   font-family: Serif;
   font-size: 40px;
@@ -64,7 +64,7 @@ h2 {
 
 p {
   margin-left: 40px;
-  color: 	#FFF8DC;
+  color: #F0E68C;
   font-family: Serif;
   font-size: 15px;
   text-align: left;
@@ -74,7 +74,7 @@ h3 {
   font-family: Serif;
   text-align: center;
   font-size: 30px;
-  color: #FFF8DC;
+  color: #F0E68C;
   
 }
 
@@ -82,14 +82,14 @@ h4 {
   font-family: Serif;
   text-align: left;
   font-size: 20px;
-  color: #FFF8DC;
+  color: #F0E68C;
   
 }
 
 ul li {
   font-family: Serif;
   font-size: 15px;
-  color: #FFF8DC;
+  color: #F0E68C;
   list-style-type: square;
 }
 
