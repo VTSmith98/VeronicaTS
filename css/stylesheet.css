@@ -12,7 +12,7 @@ body {
   text-align: center;
   font-family: Serif;
   font-size: 50px;
-  color: white;
+  color: #FFF8DC;
 }
 
 
@@ -24,7 +24,7 @@ body {
 .nav a {
   float: left;
   display: block;
-  color: white;
+  color: 	#FFF8DC;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -55,7 +55,7 @@ body {
 }
 
 h2 {
-  color: white;
+  color: 	#FFF8DC;
   text-align: center;
   font-family: Serif;
   font-size: 40px;
@@ -64,7 +64,7 @@ h2 {
 
 p {
   margin-left: 40px;
-  color: white;
+  color: 	#FFF8DC;
   font-family: Serif;
   font-size: 15px;
   text-align: left;
@@ -74,7 +74,7 @@ h3 {
   font-family: Serif;
   text-align: center;
   font-size: 30px;
-  color: white;
+  color: #FFF8DC;
   
 }
 
@@ -82,14 +82,14 @@ h4 {
   font-family: Serif;
   text-align: left;
   font-size: 20px;
-  color: white;
+  color: #FFF8DC;
   
 }
 
 ul li {
   font-family: Serif;
   font-size: 15px;
-  color: white;
+  color: #FFF8DC;
   list-style-type: square;
 }
 
