@@ -18,13 +18,13 @@ body {
 
 .nav {
   overflow: hidden;
-  background-color: #BC8F8F;
+  background-color: #7C4B4B;
 }
 
 .nav a {
   float: left;
   display: block;
-  color: #F0E68C;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -48,14 +48,14 @@ body {
 }
 
 .card {
-  background-color: #CD5C5C;
+  background-color: #A03131;
   padding: 20px;
   margin: 25px 20px 20px 20px;
   border: 15 solid white;
 }
 
 h2 {
-  color: #F0E68C;
+  color: white;
   text-align: center;
   font-family: Serif;
   font-size: 40px;
@@ -64,7 +64,7 @@ h2 {
 
 p {
   margin-left: 40px;
-  color: #F0E68C;
+  color: white;
   font-family: Serif;
   font-size: 15px;
   text-align: left;
@@ -74,7 +74,7 @@ h3 {
   font-family: Serif;
   text-align: center;
   font-size: 30px;
-  color: #F0E68C;
+  color: white;
   
 }
 
@@ -82,14 +82,14 @@ h4 {
   font-family: Serif;
   text-align: left;
   font-size: 20px;
-  color: #F0E68C;
+  color: white;
   
 }
 
 ul li {
   font-family: Serif;
   font-size: 15px;
-  color: #F0E68C;
+  color: white;
   list-style-type: square;
 }
 
