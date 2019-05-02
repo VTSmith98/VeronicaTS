@@ -66,14 +66,14 @@ p {
   margin-left: 40px;
   color: white;
   font-family: Serif;
-  font-size: 25px;
+  font-size: 20px;
   text-align: left;
 }
 
 h3 {
   font-family: Serif;
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
   color: white;
   
 }
@@ -81,7 +81,7 @@ h3 {
 h4 {
   font-family: Serif;
   text-align: left;
-  font-size: 30px;
+  font-size: 25px;
   color: white;
   
 }
