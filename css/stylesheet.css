@@ -8,6 +8,7 @@ body {
 
 
 /* In this header I used a image rather than a solid color */
+
 .header {
   background-image: url(http://3.bp.blogspot.com/-gaej-J0fH6Y/TppBMcwH8HI/AAAAAAAABps/Jqgbh1AX-_w/s1600/yellowtearoses1.jpg);
   padding: 20px;
@@ -19,6 +20,7 @@ body {
 
 
 /* This is the navigation bar that is right under the header */
+
 .nav {
   overflow: hidden;
   background-color: #7C4B4B;
@@ -39,6 +41,7 @@ body {
 }
 
 /* These are the columns that I created to help seperate the different information I put in my website */
+
 .leftcolumn {   
   float: left;
   width: 75%;
@@ -51,6 +54,7 @@ body {
 }
 
 /* This is what I used to seperate the infomration in each column */
+
 .card {
   background-color: #A03131;
   padding: 20px;
